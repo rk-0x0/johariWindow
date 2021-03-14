@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/johariWindow/static/css/main.caae6213.chunk.css",
+    "main.js": "/johariWindow/static/js/main.0a7adab1.chunk.js",
+    "main.js.map": "/johariWindow/static/js/main.0a7adab1.chunk.js.map",
+    "runtime-main.js": "/johariWindow/static/js/runtime-main.182dd667.js",
+    "runtime-main.js.map": "/johariWindow/static/js/runtime-main.182dd667.js.map",
+    "static/js/2.d35ff63e.chunk.js": "/johariWindow/static/js/2.d35ff63e.chunk.js",
+    "static/js/2.d35ff63e.chunk.js.map": "/johariWindow/static/js/2.d35ff63e.chunk.js.map",
+    "static/js/3.b1bed351.chunk.js": "/johariWindow/static/js/3.b1bed351.chunk.js",
+    "static/js/3.b1bed351.chunk.js.map": "/johariWindow/static/js/3.b1bed351.chunk.js.map",
+    "index.html": "/johariWindow/index.html",
+    "static/css/main.caae6213.chunk.css.map": "/johariWindow/static/css/main.caae6213.chunk.css.map",
+    "static/js/2.d35ff63e.chunk.js.LICENSE.txt": "/johariWindow/static/js/2.d35ff63e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/johariWindow/static/media/backimg.ed91c974.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.182dd667.js",
+    "static/js/2.d35ff63e.chunk.js",
+    "static/css/main.caae6213.chunk.css",
+    "static/js/main.0a7adab1.chunk.js"
+  ]
+}
