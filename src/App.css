@@ -1,0 +1,160 @@
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+
+h1{
+  padding-left: 5vh ;
+
+  margin: 1vh;
+  font-family: 'Redressed', cursive;
+}
+
+p{
+  padding: 4vh;
+  font-family: 'Redressed', cursive;
+}
+.hid{
+  display: none;
+}
+.general{
+  display: flex;
+  
+  width: 60%;
+  margin: 1vh;
+}
+td{
+
+  margin-left: 30%;
+  text-align: center;
+
+}
+.btn-main{
+ margin-left: 5%;
+ margin-right: 40%;
+
+}
+.heads{
+  display: flex;
+  align-content: center;
+  margin: 5vh;
+  font-family: 'Redressed', cursive;
+
+}
+
+.App-container-main {
+  /* box-shadow: 0 4px 6px rgb(192, 187, 187); */
+  margin: 5vh;
+ 
+  /* border-radius: 10px; */
+  /* opacity: 0.55; */
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center;
+  justify-content: center; */
+  font-size: calc(10px + 2vmin);
+  color: rgb(24, 22, 22);
+}
+.App-container {
+  box-shadow: 0 4px 6px #000;
+  margin: 5vh;
+  background-color: #d8d7d7;
+  border-radius: 10px;
+
+  opacity: 0.85;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  /* align-items: center;
+  justify-content: center; */
+  font-size: calc(10px + 2vmin);
+  color: rgb(24, 22, 22);
+}
+.adj-container{
+  box-shadow: 0 4px 6px #000;
+  margin: 5vh;
+  background-color: #d8d7d7;
+  border-radius: 10px;
+  opacity: 0.85;
+  min-height: 10vh;
+  display: flex;
+  
+
+}
+
+.submit{
+  
+  margin: 10px;
+/*  
+  margin-left:90%;
+  position:relative;
+   */
+}
+
+i{
+  margin: 0 10px;
+}
+.grid {
+  
+  margin: 2vh;
+  display: grid;
+  text-align: center;
+  grid-template-columns: 50% 50% ;
+  grid-template-rows: 30% auto;
+  /* border: 1px solid rgba(0, 0, 0, 0.8); */
+
+}
+.flexi{
+  /* display: flex; */
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  margin: 2px;
+}
+.Grid-map{
+  display: grid;
+  grid-template: auto / auto auto  ;
+  /* grid-gap: 2vh;
+ 
+  padding: 1vh; */
+}
+.Grid-adj{
+  display: grid;
+  font-family: 'Tisa', cursive;
+
+  grid-template: auto / auto auto auto auto auto auto auto;
+  /* grid-gap: 2vh;
+ 
+  padding: 1vh; */
+}
+.Grid-adj-container{
+  /* margin-top: 5px; */
+  display: grid;
+  grid-template: auto / auto auto auto auto auto auto ;
+
+}
+.Grid-adj-container > div{
+  
+   
+  text-align: center;
+  margin: 10px;
+  font-size: 20px;
+}
+
+
+.Grid-adj > div{
+  
+   
+    text-align: center;
+    padding: 2px 0;
+    font-size: 20px;
+}
+
+.App-link {
+  color: #3a1b1b;
+}
+
